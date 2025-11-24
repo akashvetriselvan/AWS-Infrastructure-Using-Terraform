@@ -26,11 +26,11 @@ To enable automated, event-driven monitoring for EC2 instances by configuring Cl
 
 **REQUIRED INPUT VARIABLES:**
 
-| Variable    | Description                          | Example                                                 |
-| ----------- | ------------------------------------ | ------------------------------------------------------- |
-| project     | Name of the project used for tagging | "project3"                                              |
-| instance_id | EC2 instance ID to monitor           | "i-0abc1234def56789"                                    |
-| alarm_email | Email address for SNS notifications  | "[youremail@example.com](mailto:youremail@example.com)" |
+| Variable    | Description                          | Example                                                   |
+| ----------- | ------------------------------------ | ----------------------------------------------------------|
+| project     | Name of the project used for tagging | "project3"                                                |
+| instance_id | EC2 instance ID to monitor           | "i-0abc1234def56789"                                      |
+| alarm_email | Email address for SNS notifications  | "[akashvetriselvan.v.com](mailto:akashvetriselvan.v.com)" |
 
 ---
 
