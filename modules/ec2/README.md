@@ -1,4 +1,4 @@
-# **MODULE NAME:** EC2 Terraform Module (Compute Instance Deployment)
+# EC2 Terraform Module (Compute Instance Deployment)
 
 ---
 
