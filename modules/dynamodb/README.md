@@ -1,4 +1,4 @@
-DynamoDB Terraform Module (Remote State Locking and Metadata Storage)
+## DynamoDB Terraform Module (Remote State Locking and Metadata Storage)
 
 ---
 
